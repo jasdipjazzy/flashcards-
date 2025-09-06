@@ -4,3 +4,4 @@ learning git is fun
 Practicing Git daily improves skills.
 
 "now this feature branch change is new thing to learn" 
+Git conflicts are tricky!
